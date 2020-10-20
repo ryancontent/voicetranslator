@@ -11,7 +11,3 @@ def read_config(key):
         return config[key]
     except Exception('Unable to load config using key: "{}"'.format(key)):
         return None
-
-
-def read_languages():
-    return read_config('languages')

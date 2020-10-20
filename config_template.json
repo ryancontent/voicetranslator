@@ -1,0 +1,27 @@
+{
+    "languages": {
+        "english": {
+            "twilio": "en-US",
+            "google": "en"
+        },
+        "spanish": {
+            "twilio": "es-ES",
+            "google": "es"
+        },
+        "mandarin": {
+            "twilio": "zh-CN",
+            "google": "zh-cn"
+        }
+    },
+    "caller": {
+        "langauge": "english",
+        "number": "+1222222222"
+    },
+    "receiver": {
+        "langauge": "spanish",
+        "number": "+122222222"
+    },
+    "twilio_account_sid": "",
+    "twilio_auth_token": "",
+    "url": "https://xxxxxxx.ngrok.io"
+}
